@@ -19,7 +19,7 @@ function LoginPage({ setUserLoggedIn }) {
 
   const loginUser = async () => {
     setDisplaySpinner(true);
-    const { data } = await axios.post('http://localhost:3000/loginUser', {
+    const { data } = await axios.post('http://localhost:4000/loginUser', {
       email,
       password
     });
