@@ -1,0 +1,16 @@
+.ButtonStyle1 {
+    margin-right: 1rem !important;
+}
+.LinkStyle {
+    color: white;
+    text-decoration: none;
+    margin-right: 1rem;
+    text-align: center;
+}
+.LinkStyle2 {
+    color: #1976d2;
+    text-decoration: none;
+    margin-right: 1rem;
+    text-align: center;
+    margin: 0;
+}

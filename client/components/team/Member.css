@@ -1,0 +1,9 @@
+.Member {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    padding: 1.5rem;
+}
+.FieldStyle {
+    margin: 0.2rem !important;
+}

@@ -1,0 +1,15 @@
+.createTeamWrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.CreateTeam {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1.5rem;
+    max-width: 900px;
+}
+.ButtonStyle {
+    align-self: flex-end;
+}

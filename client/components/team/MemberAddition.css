@@ -1,0 +1,12 @@
+.NewMemberWrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.NewMembers {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1.5rem;
+    max-width: 900px;
+}
